@@ -1,7 +1,6 @@
 # --------------------------- (somewhat) Advanced Examples of Use of Functions --------------------------- #
 
 
-
 # --- Typehinting --- #
 
 # our same function to square its input, but something is different...
